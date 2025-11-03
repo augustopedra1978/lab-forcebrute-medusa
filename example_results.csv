@@ -1,0 +1,2 @@
+timestamp,target_ip,service,user,password,result,evidence
+2025-11-03T14:05:00,192.168.56.20,ftp,test,Password123,SUCCESS,images/ftp_success_01.png
